@@ -9,11 +9,17 @@
 ### Connect with me:
 
 [<img align="left" alt="biscetGMAIL" src="https://img.icons8.com/metro/26/000000/gmail-login.png"/>][gmail]
-[<img align="left" alt="biscetPINTEREST" src="https://img.icons8.com/metro/26/000000/pinterest.png"/>][pinterest]
 [<img align="left" alt="biscetVK" width="26px" src="https://img.icons8.com/android/24/000000/vk-com--v1.png" />][vk]
-[<img align="left" alt="biscetTELEGRAM"  width="26px" src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png"/>][telegram]
-[<img align="left" alt="biscetINSTAGRAM" src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="biscetTELEGRAM" width="26px" src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png"/>][telegram]
 [<img align="left" alt="biscetUPWORK" width="26px" src="https://img.icons8.com/ios-filled/50/000000/upwork.png"/>][upwork]
+
+<br />
+
+### My media:
+
+[<img align="left" alt="biscetPINTEREST" src="https://img.icons8.com/metro/26/000000/pinterest.png"/>][pinterest]
+[<img align="left" alt="biscetINSTAGRAM" src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="biscetSOUNDCLOUD" width="26px" src="https://img.icons8.com/carbon-copy/100/000000/soundcloud.png"/>][soundcloud]
 
 <br />
 
@@ -55,3 +61,4 @@
 [upwork]: https://www.upwork.com/freelancers/~01b350467f78c03786
 [gmail]: mailto:befealmellow@gmail.com
 [telegram]: https://teleg.one/blsrng20
+[soundcloud]: https://soundcloud.com/biscet
