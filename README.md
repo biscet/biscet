@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet.github.io)](https://biscet.github.io)
 
-- 👀 I’m currently working on a [Instagram clone][website]!
+- 👀 I’m currently working on a [Instagram clone][currentwork]!
 - 💪 I’m currently learning everything 🤤
 - 🥅 2020 Goals: Learn frameworks with enthusiasm
 
@@ -63,3 +63,4 @@
 [gmail]: mailto:befealmellow@gmail.com
 [telegram]: https://teleg.one/blsrng20
 [soundcloud]: https://soundcloud.com/biscet
+[currentwork]: https://github.com/biscet/React-InstagramClone
