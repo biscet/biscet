@@ -1,10 +1,9 @@
-### Hi there, I'm Egor Prokhorov and I javascript developer 🤩
+### Welcome, my name is Egor Prokhorov. I'm javascript developer 🤩
 
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet.github.io)](https://biscet.github.io)
 
 - 👀 I’m currently working on a [Instagram clone][currentwork]!
 - 💪 I’m currently learning everything 🤤
-- 🥅 2020 Goals: Learn frameworks with enthusiasm
 
 ### Connect with me:
 
@@ -48,7 +47,7 @@
 [<img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][website]
 [<img align="left" alt="Firebase" width="30px" src="https://img.icons8.com/color/452/firebase.png" />][website]
 [<img align="left" alt="GitLab" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][website]
-[<img align="left" alt="Docker" width="30px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />][website]
+[<img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-256.png" />][website]
 
 <br />
 <br />
@@ -56,11 +55,11 @@
 ---
 
 [website]: https://biscet.github.io
-[vk]: https://vk.com/id548111510
+[vk]: https://vk.com/id607761386
 [pinterest]: https://www.pinterest.ru/biscet275
 [instagram]: https://instagram.com/_blsrng
 [upwork]: https://www.upwork.com/freelancers/~01b350467f78c03786
 [gmail]: mailto:befealmellow@gmail.com
-[telegram]: https://teleg.one/blsrng20
+[telegram]: https://teleg.one/hpch400
 [soundcloud]: https://soundcloud.com/biscet
 [currentwork]: https://github.com/biscet/React-InstagramClone
