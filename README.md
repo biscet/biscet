@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet.github.io)](https://biscet.github.io)
 
-- 👀 I’m currently working on a [Instagram clone][currentwork]!
+- 👀 I’m currently working on a [Music Freelance App][currentwork]!
 - 💪 I’m currently learning everything 🤤
 
 ### Connect with me:
@@ -37,6 +37,7 @@
 [<img align="left" alt="GitKraker" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/gitkraken-icon.png" />][website]
 
 <br />
+<br />
 
 ### ┕ secondary:
 
@@ -54,12 +55,12 @@
 
 ---
 
-[website]: https://biscet.github.io
+[website]: https://biscet-portfolio-851opdr7n-biscet.vercel.app/
 [vk]: https://vk.com/id607761386
 [pinterest]: https://www.pinterest.ru/biscet275
 [instagram]: https://instagram.com/_blsrng
 [upwork]: https://www.upwork.com/freelancers/~01b350467f78c03786
 [gmail]: mailto:befealmellow@gmail.com
-[telegram]: https://teleg.one/hpch400
+[telegram]: https://telegram.im/@hpch400
 [soundcloud]: https://soundcloud.com/biscet
-[currentwork]: https://github.com/biscet/React-InstagramClone
+[currentwork]: https://github.com/biscet/React-MusicFreelance
