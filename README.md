@@ -55,7 +55,7 @@
 
 ---
 
-[website]: https://biscet-portfolio-851opdr7n-biscet.vercel.app/
+[website]: https://biscet-portfolio-851opdr7n-biscet.vercel.app
 [vk]: https://vk.com/id607761386
 [pinterest]: https://www.pinterest.ru/biscet275
 [instagram]: https://instagram.com/_blsrng
