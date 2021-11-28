@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet.github.io)](https://biscet.github.io)
 
-- 👀 I’m currently working on a [Music Freelance App][currentwork]!
+- 👀 I’m currently working on a [React boilerplate][]!
 - 💪 I’m currently learning everything 🤤
 
 ### Connect with me:
@@ -55,7 +55,7 @@
 
 ---
 
-[website]: https://biscet-portfolio-851opdr7n-biscet.vercel.app
+[website]: https://biscet-portfolio.vercel.app/
 [vk]: https://vk.com/id607761386
 [pinterest]: https://www.pinterest.ru/biscet275
 [instagram]: https://instagram.com/_blsrng
