@@ -1,6 +1,7 @@
 ### Welcome, my name is Egor Prokhorov. I'm javascript developer 🤩
 
-[![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet.github.io)](https://biscet.github.io)
+[![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F
+)](https://biscet-portfolio.vercel.app/)
 
 - 👀 I’m currently working on a [React boilerplate]!
 - 💪 I’m currently learning everything 🤤
