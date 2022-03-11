@@ -56,7 +56,7 @@
 [<img align="left" alt="GitLab" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][website]
 [<img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-256.png" />][website]
 [<img align="left" alt="Postman" width="30px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][website]
-[<img align="left" alt="NextJS" width="34px" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" />][website]
+[<img align="left" alt="NextJS" width="30px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />][website]
 
 <br />
 <br />
