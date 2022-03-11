@@ -50,6 +50,7 @@
 [<img align="left" alt="Firebase" width="30px" src="https://img.icons8.com/color/452/firebase.png" />][website]
 [<img align="left" alt="GitLab" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][website]
 [<img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-256.png" />][website]
+[<img align="left" alt="Postman" width="30px" src="https://images.saasworthy.com/postman_996_logo_1617944599_pkeo7.jpg" />][website]
 
 <br />
 <br />
