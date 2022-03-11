@@ -48,7 +48,7 @@
 ### ┕ secondary:
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="VueJS" width="26px" src="https://user-images.githubusercontent.com/2678654/32683174-3e4fc48e-c647-11e7-98c0-96477a44bfa2.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][website]
@@ -56,7 +56,7 @@
 [<img align="left" alt="GitLab" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][website]
 [<img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-256.png" />][website]
 [<img align="left" alt="Postman" width="30px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][website]
-[<img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" />][website]
+[<img align="left" alt="NextJS" width="34px" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" />][website]
 
 <br />
 <br />
