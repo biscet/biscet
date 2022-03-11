@@ -36,8 +36,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="GitKraker" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/gitkraken-icon.png" />][website]
-[<img align="left" alt="Jira" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" />][website]
-[<img align="left" alt="Bitbucket" width="30px" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" />][website]
+[<img align="left" alt="Jira" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" />][website]
+[<img align="left" alt="Bitbucket" width="26px" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" />][website]
+[<img align="left" alt="Storybook" width="26px" src="https://user-images.githubusercontent.com/18430599/38112659-491f9112-3368-11e8-8b65-1725f19a61fa.png" />][website]
+[<img align="left" alt="Vercel" width="26px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />][website]
+[<img align="left" alt="Tailwind" width="26px" src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" />][website]
 
 <br />
 <br />
@@ -53,6 +56,7 @@
 [<img align="left" alt="GitLab" width="30px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />][website]
 [<img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Docker-256.png" />][website]
 [<img align="left" alt="Postman" width="30px" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" />][website]
+[<img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" />][website]
 
 <br />
 <br />
