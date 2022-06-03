@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F
 )](https://biscet-portfolio.vercel.app/)
 
-- 👀 I’m currently looking for a job!
+- 👀 I currently work for Intelkon!
 - 💪 I’m currently ready to learn.
 
 ### Connect with me:
