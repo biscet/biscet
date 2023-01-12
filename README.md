@@ -30,22 +30,14 @@
 
 ReactJS / Effector / Patronum / Atomic Route / SCSS / Lodash ( Custom ) / Axios
 
-<br />
-<br />
-
 ### ┕ secondary:
 
 Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
-
-<br />
-<br />
 
 ### ┕ thirdy:
 
 Redux / Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack
 
-<br />
-<br />
 
 ---
 
