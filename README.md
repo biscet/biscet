@@ -11,6 +11,8 @@
 [<img align="left" alt="biscetGMAIL" src="https://img.icons8.com/metro/26/000000/gmail-login.png"/>][gmail]
 [<img align="left" alt="biscetVK" width="26px" src="https://img.icons8.com/android/24/000000/vk-com--v1.png" />][vk]
 [<img align="left" alt="biscetTELEGRAM" width="26px" src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png"/>][telegram]
+[<img align="left" alt="biscetHABR" width="26px" src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
+[<img align="left" alt="biscetHHRU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
 <br />
 
@@ -19,8 +21,6 @@
 [<img align="left" alt="biscetPINTEREST" src="https://img.icons8.com/metro/26/000000/pinterest.png"/>][pinterest]
 [<img align="left" alt="biscetINSTAGRAM" src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="biscetSOUNDCLOUD" width="26px" src="https://img.icons8.com/carbon-copy/100/000000/soundcloud.png"/>][soundcloud]
-[<img align="left" alt="biscetHABR" width="26px" src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
-[<img align="left" alt="biscetHHRU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
 <br />
 
