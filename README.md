@@ -19,7 +19,7 @@
 [<img align="left" alt="biscetPINTEREST" src="https://img.icons8.com/metro/26/000000/pinterest.png"/>][pinterest]
 [<img align="left" alt="biscetINSTAGRAM" src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="biscetSOUNDCLOUD" width="26px" src="https://img.icons8.com/carbon-copy/100/000000/soundcloud.png"/>][soundcloud]
-[<img align="left" alt="biscetHABR" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSt1Z8OK1YRPwOvdr4MdFqhd7LIqmbAG0kiQ1AR9DE9vRfbho05JSsG7IV5lg1CyyK3mk&usqp=CAU"/>][habr]
+[<img align="left" alt="biscetHABR" width="26px" src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
 [<img align="left" alt="biscetHHRU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
 <br />
