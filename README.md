@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on ReactJS, SCSS, Redux, Effector, NodeJS, Express and etc.
 - 💪 I’m currently focus to my job.
 
+<br />
+
 ---
 
 ### Tech stack:
