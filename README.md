@@ -27,6 +27,8 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ### Connect with me:
 
 [<img align="left" alt="biscetGMAIL" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>][gmail]
@@ -35,8 +37,6 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetHABR" height="30" width="30" style="padding-right:10px;"  src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
 [<img align="left" alt="biscetHHRU" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <br />
 
