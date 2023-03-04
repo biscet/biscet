@@ -28,12 +28,12 @@
 <br />
 
 ### Tech stack:
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://effector.dev/ru/img/comet.png" alt="effector" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" width="40" height="40" style="padding-right:10px;"/>
-<img align="left"  src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
+<img align="left"  src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="45" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://v4.material-ui.com/static/logo.png" alt="material" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
@@ -45,8 +45,6 @@
 
 Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
-<br />
-<br />
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
