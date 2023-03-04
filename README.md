@@ -35,6 +35,9 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetHABR" height="30" width="30" style="padding-right:10px;"  src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
 [<img align="left" alt="biscetHHRU" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <br />
 
 ### My media:
@@ -45,7 +48,6 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yandex_Music_icon.svg/2048px-Yandex_Music_icon.svg.png"/>][yandex]
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <br />
 <br />
