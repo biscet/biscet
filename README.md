@@ -44,21 +44,13 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145809.png"/>][soundcloud]
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yandex_Music_icon.svg/2048px-Yandex_Music_icon.svg.png"/>][yandex]
 
-<br />
-<br />
 
----
-
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 [website]: https://biscet-portfolio.vercel.app/
 [vk]: https://vk.com/id607761386
