@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F
 )](https://biscet-portfolio.vercel.app/)
 
+- 🔭 I’m currently working on ReactJS, SCSS, Redux, Effector, NodeJS, Express and etc.
+- ⚡ Fun fact: ... I am Funny and I love to Code.
 - 💪 I’m currently focus to my job.
 
 ### Connect with me:
@@ -17,9 +19,10 @@
 
 ### My media:
 
-[<img align="left" alt="biscetPINTEREST" src="https://img.icons8.com/metro/26/000000/pinterest.png"/>][pinterest]
-[<img align="left" alt="biscetINSTAGRAM" src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>][instagram]
-[<img align="left" alt="biscetSOUNDCLOUD" width="26px" src="https://img.icons8.com/carbon-copy/100/000000/soundcloud.png"/>][soundcloud]
+[<img align="left" height="30" width="40" style="padding-right:10px;" alt="biscetPINTEREST" src="https://cdn-icons-png.flaticon.com/512/174/174863.png"/>][pinterest]
+[<img align="left" alt="biscetINSTAGRAM" height="30" width="40" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png"/>][instagram]
+[<img align="left" alt="biscetSOUNDCLOUD" height="30" width="40" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145809.png"/>][soundcloud]
+[<img align="left" alt="biscetSOUNDCLOUD" height="30" width="40" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yandex_Music_icon.svg/2048px-Yandex_Music_icon.svg.png"/>][yandex]
 
 <br />
 
@@ -50,3 +53,4 @@ Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Com
 [soundcloud]: https://soundcloud.com/biscet
 [habr]: https://career.habr.com/biscet
 [hhru]: https://togliatti.hh.ru/resume/b27a8469ff09bddac80039ed1f5358466e6534
+[yandex]:https://music.yandex.ru/users/biscet/playlists/3
