@@ -25,19 +25,22 @@
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br />
+
 ### Languages and Tools:
 
 ### ┕ basic:
 
-ReactJS / Effector / Patronum / Atomic Route / SCSS / Lodash ( Custom ) / Axios
+* ReactJS / Effector / Patronum / Atomic Route / SCSS / Lodash ( Custom ) / Axios
 
 ### ┕ secondary:
 
-Redux / Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
+* Redux / Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
 
 ### ┕ thirdy:
 
-Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack and etc.
+* Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack and etc.
 
 
 ---
