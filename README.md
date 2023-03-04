@@ -24,7 +24,7 @@
 <br />
 <br />
 
-### Others tech stack:
+### Other tech stack:
 
 Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
