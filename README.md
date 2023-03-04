@@ -26,8 +26,7 @@
 
 Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
-<br />
-<br />
+---
 
 ### Connect with me:
 
@@ -37,7 +36,6 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetHABR" height="30" width="30" style="padding-right:10px;"  src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
 [<img align="left" alt="biscetHHRU" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
 
-<br />
 
 ### My media:
 
@@ -46,7 +44,6 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145809.png"/>][soundcloud]
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yandex_Music_icon.svg/2048px-Yandex_Music_icon.svg.png"/>][yandex]
 
-<br />
 <br />
 <br />
 
