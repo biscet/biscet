@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F
 )](https://biscet-portfolio.vercel.app/)
 
-- 👀 Н Intelkon!
 - 💪 I’m currently focus to my job.
 
 ### Connect with me:
@@ -32,11 +31,11 @@ ReactJS / Effector / Patronum / Atomic Route / SCSS / Lodash ( Custom ) / Axios
 
 ### ┕ secondary:
 
-Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
+Redux / Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
 
 ### ┕ thirdy:
 
-Redux / Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack
+Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack and etc.
 
 
 ---
