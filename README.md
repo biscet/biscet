@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="biscetGMAIL" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>][gmail]
-[<img align="left" alt="biscetVK"height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" />][vk]
+[<img align="left" alt="biscetGMAIL" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/>][gmail]
+[<img align="left" alt="biscetVK" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" />][vk]
 [<img align="left" alt="biscetTELEGRAM" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/>][telegram]
 [<img align="left" alt="biscetHABR" height="30" width="30" style="padding-right:10px;"  src="https://career.habr.com/images/favicons/apple-touch-icon-120.png"/>][habr]
 [<img align="left" alt="biscetHHRU" height="30" width="30" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"/>][hhru]
