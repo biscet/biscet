@@ -22,7 +22,9 @@
 <br />
 <br />
 
-Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
+### Others tech stack:
+
+Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
 <br />
 <br />
@@ -45,8 +47,8 @@ Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarF
 [<img align="left" alt="biscetSOUNDCLOUD" height="30" width="30" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Yandex_Music_icon.svg/2048px-Yandex_Music_icon.svg.png"/>][yandex]
 
 <br />
-
-
+<br />
+<br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
