@@ -28,18 +28,18 @@
 <br />
 
 ### Tech stack:
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-### ┕ basic:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://effector.dev/ru/img/comet.png" alt="effector" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://v4.material-ui.com/static/logo.png" alt="material" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
+<img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
 
-* ReactJS / Effector / Patronum / Atomic Route / SCSS / Lodash ( Custom ) / Axios
-
-### ┕ secondary:
-
-* Redux / Storybook / Tailwind / Material UI / Apexcharts / Konva / i18n ( Custom ) / FarFetched
-
-### ┕ thirdy:
-
-* Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack and etc.
+Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
 <br />
 <br />
