@@ -39,7 +39,8 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
 
-Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
+<br />
+# Others tech stack: Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
 <br />
 <br />
