@@ -25,8 +25,6 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <br />
 
 ### Languages and Tools:
@@ -42,6 +40,9 @@
 ### ┕ thirdy:
 
 * Autodesk API / NodeJS / Express / MongoDB / Django Template ( SSR ) / Styled Components / TypeScript / NextJS / Webpack and etc.
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biscet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 ---
