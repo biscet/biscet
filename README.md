@@ -17,7 +17,7 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" width="40" height="40" style="padding-right:10px;"/>
 <img align="left"  src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://v4.material-ui.com/static/logo.png" alt="material" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
 
