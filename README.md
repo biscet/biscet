@@ -15,7 +15,7 @@
 <img align="left" src="https://v22.effector.dev/ru/img/comet.png" alt="effector" width="35" height="35" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="35" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://img.icons8.com/nolan/512/express-js.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://v4.material-ui.com/static/logo.png" alt="material" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
