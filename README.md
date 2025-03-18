@@ -63,7 +63,7 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 [instagram]: https://instagram.com/_blsrng
 [upwork]: https://www.upwork.com/freelancers/~01b350467f78c03786
 [gmail]: mailto:befealmellow@gmail.com
-[telegram]: https://telegram.im/@hpch400
+[telegram]: https://t.me/biscet16581
 [soundcloud]: https://soundcloud.com/biscet
 [habr]: https://career.habr.com/biscet
 [hhru]: https://togliatti.hh.ru/resume/b27a8469ff09bddac80039ed1f5358466e6534
