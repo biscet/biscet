@@ -1,6 +1,6 @@
 [<img align="right" style="margin-top:30px;" alt="biscetPINTEREST" src="https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F"/>][Website]
 
-### Welcome, my name is Egor Prokhorov. I'm javascript developer 🤩
+### Welcome, my name is Egor Prokhorov. I'm javascript / typescript developer 🤩
 
 - 🔭 I’m currently working on ReactJS, SCSS, Redux, Effector, NodeJS, Express and etc.
 - 💪 I’m currently focus to my job.
