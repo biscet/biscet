@@ -21,6 +21,7 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png" alt="pinia" width="40" height="40" style="padding-right:10px;"/>
 
 <br />
 <br />
