@@ -20,6 +20,7 @@
 <img align="left" src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmcY7L1pv0ViLQUKnDEA0eQ8NP-qgLrSjZg&s" alt="vue" width="40" height="40" style="padding-right:10px;"/>
 
 <br />
 <br />
