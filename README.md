@@ -67,7 +67,9 @@ I build web and mobile applications, focusing on maintainable architecture, pred
 <span><img src="assets/icons/codex.svg" alt="Codex" title="Codex" width="32" height="32" />&nbsp;Codex</span>&nbsp;&nbsp;
 <span><img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" width="32" height="32" />&nbsp;OpenCode</span>&nbsp;&nbsp;
 <span><img src="assets/icons/qwen-code.svg" alt="Qwen Code" title="Qwen Code" width="32" height="32" />&nbsp;Qwen Code</span>&nbsp;&nbsp;
-<span><img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" />&nbsp;DeepSeek Harness</span>
+<span><img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" />&nbsp;DeepSeek Harness</span>&nbsp;&nbsp;
+<span><img src="assets/icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="32" height="32" />&nbsp;Antigravity</span>&nbsp;&nbsp;
+<span><img src="assets/icons/cursor.svg" alt="Cursor" title="Cursor" width="32" height="32" />&nbsp;Cursor</span>
 </p>
 
 **Additional tooling:** BitFrost
