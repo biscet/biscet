@@ -1,10 +1,14 @@
 [<img align="right" style="margin-top:30px;" alt="biscetPINTEREST" src="https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F"/>][Website]
 
-### Welcome, my name is Egor Prokhorov. I'm javascript / typescript developer 🤩
+### Hey, I'm Egor Prokhorov
 
-- 🔭 I’m currently working on ReactJS, SCSS, Redux, Effector, NodeJS, Express and etc.
-- 💪 I’m currently focus to my job.
-- 🧪 I’m also developing [Oboro AI](https://huggingface.co/oboro-ai) — local AI models, adapters and datasets. **Oboro Flash** is in development.
+**Senior Frontend Developer · React Native · Local AI**
+
+I build web and mobile applications, focusing on maintainable architecture, predictable state management, and reliable user experiences.
+
+**Current focus**
+- **Web & mobile:** React, React Native, Expo, TypeScript, Effector, Vite, and tRPC.
+- **[Oboro AI](https://huggingface.co/oboro-ai):** an independent project exploring local AI models, fine-tuning, and inference optimization. **Oboro Flash** is in development.
 
 <br />
 
@@ -24,12 +28,20 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" style="padding-right:10px;"/>
 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="react-native" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" style="padding-right:10px;"/>
 <br />
 <br />
 
 ### Other tech stack:
 
 Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
+
+### Local AI & tooling:
+
+- **Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
+- **AI coding & agent tools:** BitFrost, Qwen Code, OpenCode, Codex, DeepSeek Harness.
 
 ---
 
