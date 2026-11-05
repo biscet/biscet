@@ -45,10 +45,16 @@ I build web and mobile applications, focusing on maintainable architecture, pred
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC" title="tRPC" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" />&nbsp;
-<img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" title="GSAP" width="32" height="32" />
+<img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" title="GSAP" width="32" height="32" />&nbsp;
+<img src="assets/icons/farfetched.svg" alt="Farfetched" title="Farfetched" width="32" height="32" />&nbsp;
+<img src="assets/icons/radix-ui.svg" alt="Radix UI" title="Radix UI" width="32" height="32" />&nbsp;
+<img src="assets/icons/framer.svg" alt="Framer Motion" title="Framer Motion" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="32" height="32" />&nbsp;
+<img src="assets/icons/testing-library.svg" alt="Testing Library" title="Testing Library" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="32" height="32" />
 </p>
 
-Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
+**Additional:** Atomic Router · Custom Lodash utilities · Custom i18n · PostCSS
 
 ### Local AI & tooling:
 
@@ -56,10 +62,16 @@ Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / St
 
 **AI coding & agent tools:**
 
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/claudecode-color.svg" width="24" height="24" alt="Claude Code" title="Claude Code" /> **Claude Code** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/codex-color.svg" width="24" height="24" alt="Codex" title="Codex" /> **Codex** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-png/dark/opencode.png" width="24" height="24" alt="OpenCode" title="OpenCode" /> **OpenCode** |
-| <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/qwen-color.svg" width="24" height="24" alt="Qwen Code" title="Qwen Code" /> **Qwen Code** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/deepseek-color.svg" width="24" height="24" alt="DeepSeek Harness" title="DeepSeek Harness" /> **DeepSeek Harness** | <img src="https://raw.githubusercontent.com/SavaSoftworks/BitFrost/main/assets/logo.svg" width="92" height="20" alt="BitFrost" title="BitFrost" /> |
+<p>
+<span><img src="assets/icons/claude-code.svg" alt="Claude Code" title="Claude Code" width="32" height="32" />&nbsp;Claude Code</span>&nbsp;&nbsp;
+<span><img src="assets/icons/codex.svg" alt="Codex" title="Codex" width="32" height="32" />&nbsp;Codex</span>&nbsp;&nbsp;
+<span><img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" width="32" height="32" />&nbsp;OpenCode</span>&nbsp;&nbsp;
+<span><img src="assets/icons/qwen-code.svg" alt="Qwen Code" title="Qwen Code" width="32" height="32" />&nbsp;Qwen Code</span>&nbsp;&nbsp;
+<span><img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" />&nbsp;DeepSeek Harness</span>
+</p>
+
+**Additional tooling:** BitFrost
+
 
 ---
 
