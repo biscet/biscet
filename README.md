@@ -15,33 +15,51 @@ I build web and mobile applications, focusing on maintainable architecture, pred
 ---
 
 ### Tech stack:
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="35" style="padding-right:10px;"/>
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://v22.effector.dev/ru/img/comet.png" alt="effector" width="35" height="35" style="padding-right:10px;"/>
-<img align="left" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="35" style="padding-right:10px;"/>
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://img.icons8.com/nolan/512/express-js.png" alt="express" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://v4.material-ui.com/static/logo.png" alt="material" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="tailwind" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40" style="padding-right:10px;"/>
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="react-native" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40" style="padding-right:10px;"/>
-<br />
-<br />
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" width="32" height="32" />&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" title="node" width="32" height="32" />&nbsp;
+<img src="https://v22.effector.dev/ru/img/comet.png" alt="effector" title="effector" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" title="redux" width="32" height="32" />&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="scss" title="scss" width="32" height="32" />&nbsp;
+<img src="https://img.icons8.com/nolan/512/express-js.png" alt="express" title="express" width="32" height="32" />&nbsp;
+<img src="https://v4.material-ui.com/static/logo.png" alt="material" title="material" width="32" height="32" />&nbsp;
+<img src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="tailwind" title="tailwind" width="32" height="32" />&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="ts" title="ts" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" title="storybook" width="32" height="32" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" title="vue" width="32" height="32" />&nbsp;
+<img src="https://pinia.vuejs.org/logo.svg" alt="pinia" title="pinia" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="react-native" title="react-native" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" title="expo" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" title="vite" width="32" height="32" />
+</p>
 
 ### Other tech stack:
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lodash/lodash-plain.svg" alt="Lodash" title="Lodash" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" title="Axios" width="32" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/konva/24B7D4" alt="Konva" title="Konva" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" title="Styled Components" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC" title="tRPC" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" />&nbsp;
+<img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" title="GSAP" width="32" height="32" />
+</p>
 
 Atomic Route / Lodash (Custom) / Axios / i18n (Custom) / FarFetched / Konva / Styled Components / NextJS / Webpack and etc.
 
 ### Local AI & tooling:
 
-- **Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
-- **AI coding & agent tools:** BitFrost, Qwen Code, OpenCode, Codex, DeepSeek Harness.
+**Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
+
+**AI coding & agent tools:**
+
+| | | |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/claudecode-color.svg" width="24" height="24" alt="Claude Code" title="Claude Code" /> **Claude Code** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/codex-color.svg" width="24" height="24" alt="Codex" title="Codex" /> **Codex** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-png/dark/opencode.png" width="24" height="24" alt="OpenCode" title="OpenCode" /> **OpenCode** |
+| <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/qwen-color.svg" width="24" height="24" alt="Qwen Code" title="Qwen Code" /> **Qwen Code** | <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/deepseek-color.svg" width="24" height="24" alt="DeepSeek Harness" title="DeepSeek Harness" /> **DeepSeek Harness** | <img src="https://raw.githubusercontent.com/SavaSoftworks/BitFrost/main/assets/logo.svg" width="92" height="20" alt="BitFrost" title="BitFrost" /> |
 
 ---
 
