@@ -135,10 +135,20 @@ I build web and mobile apps and work with local and cloud AI.
 <img src="https://img.icons8.com/nolan/512/express-js.png" alt="Express" title="Express" width="32" height="32" /></td>
 <td><strong>Build &amp; quality</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="32" height="32" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" />&nbsp;
-<img src="assets/icons/testing-library.svg" alt="Testing Library" title="Testing Library" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" title="CMake" width="32" height="32" /></td>
+</tr>
+<tr>
+<td><strong>Testing</strong></td>
+<td width="9999"><a href="https://vitest.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" /></a>&nbsp;
+<a href="https://stryker-mutator.io/"><img src="https://raw.githubusercontent.com/stryker-mutator/stryker-js/master/stryker-80x80.png" alt="Stryker" title="Stryker" width="32" height="32" /></a>&nbsp;
+<a href="https://testing-library.com/"><img src="assets/icons/testing-library.svg" alt="Testing Library" title="Testing Library" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/jsdom/jsdom"><img src="https://raw.githubusercontent.com/jsdom/jsdom/main/logo.svg" alt="jsdom" title="jsdom" width="32" height="32" /></a>&nbsp;
+<a href="https://playwright.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="32" height="32" /></a>&nbsp;
+<a href="https://fast-check.dev/"><img src="https://raw.githubusercontent.com/dubzzz/fast-check/main/website/static/img/favicon.ico" alt="fast-check" title="fast-check" width="32" height="32" /></a></td>
+<td><strong>Docs &amp; specs</strong></td>
+<td width="9999"><a href="https://vitepress.dev/"><img src="https://raw.githubusercontent.com/vuejs/vitepress/main/art/vitepress-logo-mini.svg" alt="VitePress" title="VitePress" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/Fission-AI/OpenSpec"><img src="https://raw.githubusercontent.com/Fission-AI/OpenSpec/main/website/public/docs/icon-512.png" alt="OpenSpec" title="OpenSpec" width="32" height="32" /></a></td>
 </tr>
 </tbody>
 </table>
