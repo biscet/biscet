@@ -52,7 +52,7 @@ I build web and mobile apps and work with local and cloud AI.
 
 **Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
 
-**Additional tooling:** BitFrost, [LiteLLM](https://github.com/BerriAI/litellm)
+**Additional tooling:** BitFrost, LiteLLM
 
 ### AI projects, models & datasets
 
@@ -63,8 +63,7 @@ I build web and mobile apps and work with local and cloud AI.
 **[My Hugging Face profile](https://huggingface.co/biscet)**
 
 - **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2).
-- **Dataset:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix).
-- **Dataset:** [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite).
 
 ---
 
