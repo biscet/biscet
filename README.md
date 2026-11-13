@@ -2,9 +2,9 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile applications and work with local AI, model fine-tuning, and inference optimization. I focus on maintainable architecture, predictable state management, and reliable user experiences.
+I build web and mobile apps and work with local and cloud AI.
 
-## Local AI & tooling
+## Local & cloud AI tooling
 
 **Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
 
@@ -25,36 +25,42 @@ I build web and mobile applications and work with local AI, model fine-tuning, a
 </tr>
 <tr>
 <td><strong>AI platforms</strong></td>
-<td width="9999"><a href="https://venice.ai/">Venice</a> &middot; <a href="https://chatgpt.com/">ChatGPT</a> &middot; <a href="https://gemini.google.com/">Gemini</a> &middot; <a href="https://www.perplexity.ai/">Perplexity</a></td>
+<td width="9999"><a href="https://venice.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/venice-color.svg" alt="Venice" title="Venice" width="32" height="32" /></a>&nbsp;
+<a href="https://chatgpt.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/openai.webp" alt="ChatGPT" title="ChatGPT" width="32" height="32" /></a>&nbsp;
+<a href="https://gemini.google.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="32" height="32" /></a>&nbsp;
+<a href="https://www.perplexity.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/perplexity-color.svg" alt="Perplexity" title="Perplexity" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>Search &amp; chat</strong></td>
-<td width="9999"><a href="https://github.com/ItzCrazyKns/Vane">Vane</a> &middot; <a href="https://github.com/LibreChat-AI/LibreChat">LibreChat</a></td>
+<td width="9999"><a href="https://github.com/ItzCrazyKns/Vane"><img src="https://raw.githubusercontent.com/ItzCrazyKns/Vane/master/src/app/favicon.ico" alt="Vane" title="Vane" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/LibreChat-AI/LibreChat"><img src="https://raw.githubusercontent.com/LibreChat-AI/LibreChat/main/client/public/assets/logo.svg" alt="LibreChat" title="LibreChat" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>Images &amp; workflows</strong></td>
-<td width="9999"><a href="https://github.com/Comfy-Org/ComfyUI">ComfyUI</a></td>
+<td width="9999"><a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/comfyui-color.svg" alt="ComfyUI" title="ComfyUI" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>Music &amp; audio</strong></td>
-<td width="9999"><a href="https://github.com/ace-step/ACE-Step-DAW">ACE-Step DAW</a></td>
+<td width="9999"><a href="https://github.com/ace-step/ACE-Step-DAW"><img src="https://raw.githubusercontent.com/ace-step/ACE-Step-DAW/main/public/logo-192.png" alt="ACE-Step DAW" title="ACE-Step DAW" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>Fine-tuning &amp; training</strong></td>
-<td width="9999"><a href="https://github.com/unslothai/unsloth">Unsloth</a> &middot; <a href="https://github.com/hiyouga/LlamaFactory">LLaMA-Factory</a> &middot; <a href="https://github.com/huggingface/transformers">Transformers</a></td>
+<td width="9999"><a href="https://github.com/unslothai/unsloth"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/unsloth-color.svg" alt="Unsloth" title="Unsloth" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/hiyouga/LlamaFactory"><img src="https://raw.githubusercontent.com/hiyouga/LlamaFactory/main/assets/logo.png" alt="LLaMA-Factory" title="LLaMA-Factory" width="112" height="32" /></a>&nbsp;
+<a href="https://github.com/huggingface/transformers"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Transformers" title="Transformers" width="32" height="32" /></a></td>
 </tr>
 </tbody>
 </table>
 
 **Additional tooling:** BitFrost
 
-### Projects & model releases
+### AI projects, models & datasets
 
-**[DFlash Coach](https://github.com/biscet/DFlash-Coach)** — feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.
+**[DFlash Coach](https://github.com/biscet/DFlash-Coach)**: feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.
 
-> **[Oboro AI](https://huggingface.co/oboro-ai)** — an independent project exploring local AI models, fine-tuning, and inference optimization. **Oboro Flash** is in development.
+> **[Oboro AI](https://huggingface.co/oboro-ai)**: local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
 
-**[My Hugging Face profile](https://huggingface.co/biscet)** — models and datasets:
+**[My Hugging Face profile](https://huggingface.co/biscet)**
 
 - **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2).
 - **Dataset:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix).
