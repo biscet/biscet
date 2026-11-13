@@ -2,7 +2,7 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile apps with React, TypeScript, React Native, and Expo. My work includes admin panels, interactive maps, and API integration.
+I build web and mobile apps with React, TypeScript, React Native, and Expo.
 
 I also work with local and cloud AI: model fine-tuning, dataset preparation, and inference optimization. I develop DFlash Coach and publish models and datasets on Hugging Face.
 
