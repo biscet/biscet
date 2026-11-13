@@ -2,7 +2,11 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile apps and work with local and cloud AI.
+I build web and mobile apps with React, TypeScript, React Native, and Expo. My work includes admin panels, interactive maps, and API integration.
+
+I also work with local and cloud AI: model fine-tuning, dataset preparation, and inference optimization. I develop DFlash Coach and publish models and datasets on Hugging Face.
+
+<br>
 
 ## Local & cloud AI tooling
 
@@ -50,15 +54,21 @@ I build web and mobile apps and work with local and cloud AI.
 </tbody>
 </table>
 
+<br>
+
 **Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
 
 **Additional tooling:** BitFrost, LiteLLM
+
+<br>
 
 ### AI projects, models & datasets
 
 **[DFlash Coach](https://github.com/biscet/DFlash-Coach)**: feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.
 
 > **[Oboro AI](https://huggingface.co/oboro-ai)**: local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
+
+<br>
 
 **[My Hugging Face profile](https://huggingface.co/biscet)**
 
@@ -73,6 +83,8 @@ I build web and mobile apps and work with local and cloud AI.
 
 - **Web & mobile:** React, React Native, Expo, TypeScript, Effector, Vite, and tRPC.
 - **Maps & visualization:** MapLibre GL JS.
+
+<br>
 
 <table width="100%">
 <thead>
