@@ -2,20 +2,88 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile applications, focusing on maintainable architecture, predictable state management, and reliable user experiences.
+I build web and mobile applications and work with local AI, model fine-tuning, and inference optimization. I focus on maintainable architecture, predictable state management, and reliable user experiences.
+
+## Local AI & tooling
+
+**Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
+
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>CLI agents</strong></td>
+<td width="9999"><img src="assets/icons/claude-code.svg" alt="Claude Code" title="Claude Code" width="32" height="32" />&nbsp;
+<img src="assets/icons/codex.svg" alt="Codex" title="Codex" width="32" height="32" />&nbsp;
+<img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" width="32" height="32" />&nbsp;
+<img src="assets/icons/qwen-code.svg" alt="Qwen Code" title="Qwen Code" width="32" height="32" />&nbsp;
+<img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" /></td>
+</tr>
+<tr>
+<td><strong>AI editors</strong></td>
+<td width="9999"><img src="assets/icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="32" height="32" />&nbsp;
+<img src="assets/icons/cursor.svg" alt="Cursor" title="Cursor" width="32" height="32" /></td>
+</tr>
+<tr>
+<td><strong>AI platforms</strong></td>
+<td width="9999"><a href="https://venice.ai/">Venice</a> &middot; <a href="https://chatgpt.com/">ChatGPT</a> &middot; <a href="https://gemini.google.com/">Gemini</a> &middot; <a href="https://www.perplexity.ai/">Perplexity</a></td>
+</tr>
+<tr>
+<td><strong>Search &amp; chat</strong></td>
+<td width="9999"><a href="https://github.com/ItzCrazyKns/Vane">Vane</a> &middot; <a href="https://github.com/LibreChat-AI/LibreChat">LibreChat</a></td>
+</tr>
+<tr>
+<td><strong>Images &amp; workflows</strong></td>
+<td width="9999"><a href="https://github.com/Comfy-Org/ComfyUI">ComfyUI</a></td>
+</tr>
+<tr>
+<td><strong>Music &amp; audio</strong></td>
+<td width="9999"><a href="https://github.com/ace-step/ACE-Step-DAW">ACE-Step DAW</a></td>
+</tr>
+<tr>
+<td><strong>Fine-tuning &amp; training</strong></td>
+<td width="9999"><a href="https://github.com/unslothai/unsloth">Unsloth</a> &middot; <a href="https://github.com/hiyouga/LlamaFactory">LLaMA-Factory</a> &middot; <a href="https://github.com/huggingface/transformers">Transformers</a></td>
+</tr>
+</tbody>
+</table>
+
+**Additional tooling:** BitFrost
+
+### Projects & model releases
+
+**[DFlash Coach](https://github.com/biscet/DFlash-Coach)** — feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.
+
+> **[Oboro AI](https://huggingface.co/oboro-ai)** — an independent project exploring local AI models, fine-tuning, and inference optimization. **Oboro Flash** is in development.
+
+**[My Hugging Face profile](https://huggingface.co/biscet)** — models and datasets:
+
+- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2).
+- **Dataset:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix).
+- **Dataset:** [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite).
+
+---
+
+## Technologies I use
 
 **Current focus**
 
 - **Web & mobile:** React, React Native, Expo, TypeScript, Effector, Vite, and tRPC.
 - **Maps & visualization:** MapLibre GL JS.
 
----
-
 <table width="100%">
 <thead>
 <tr><th colspan="2" width="5000">Tech stack</th><th colspan="2" width="5000">Other tech stack</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Languages</strong></td>
+<td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="32" height="32" /></td>
+<td><strong>AI &amp; ML</strong></td>
+<td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="32" height="32" /></td>
+</tr>
 <tr>
 <td><strong>Web &amp; mobile</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="32" height="32" />&nbsp;
@@ -48,8 +116,7 @@ I build web and mobile applications, focusing on maintainable architecture, pred
 </tr>
 <tr>
 <td><strong>Tooling</strong></td>
-<td width="9999"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="32" height="32" />&nbsp;
+<td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="32" height="32" /></td>
 <td><strong>UI &amp; motion</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" title="Styled Components" width="32" height="32" />&nbsp;
@@ -65,38 +132,11 @@ I build web and mobile applications, focusing on maintainable architecture, pred
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" />&nbsp;
 <img src="assets/icons/testing-library.svg" alt="Testing Library" title="Testing Library" width="32" height="32" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="32" height="32" /></td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="32" height="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" title="CMake" width="32" height="32" /></td>
 </tr>
 </tbody>
 </table>
-
----
-
-## Local AI & tooling
-
-> **[Oboro AI](https://huggingface.co/oboro-ai)** — an independent project exploring local AI models, fine-tuning, and inference optimization. **Oboro Flash** is in development.
-
-**Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
-
-<table width="100%">
-<tbody>
-<tr>
-<td><strong>CLI agents</strong></td>
-<td width="9999"><img src="assets/icons/claude-code.svg" alt="Claude Code" title="Claude Code" width="32" height="32" />&nbsp;
-<img src="assets/icons/codex.svg" alt="Codex" title="Codex" width="32" height="32" />&nbsp;
-<img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" width="32" height="32" />&nbsp;
-<img src="assets/icons/qwen-code.svg" alt="Qwen Code" title="Qwen Code" width="32" height="32" />&nbsp;
-<img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" /></td>
-</tr>
-<tr>
-<td><strong>AI editors</strong></td>
-<td width="9999"><img src="assets/icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="32" height="32" />&nbsp;
-<img src="assets/icons/cursor.svg" alt="Cursor" title="Cursor" width="32" height="32" /></td>
-</tr>
-</tbody>
-</table>
-
-**Additional tooling:** BitFrost
 
 ---
 
