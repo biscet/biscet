@@ -6,12 +6,10 @@ I build web and mobile apps and work with local and cloud AI.
 
 ## Local & cloud AI tooling
 
-**Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
-
 <table width="100%">
 <tbody>
 <tr>
-<td><strong>CLI agents</strong></td>
+<td width="210"><strong>CLI&nbsp;agents</strong></td>
 <td width="9999"><img src="assets/icons/claude-code.svg" alt="Claude Code" title="Claude Code" width="32" height="32" />&nbsp;
 <img src="assets/icons/codex.svg" alt="Codex" title="Codex" width="32" height="32" />&nbsp;
 <img src="assets/icons/opencode.svg" alt="OpenCode" title="OpenCode" width="32" height="32" />&nbsp;
@@ -19,32 +17,32 @@ I build web and mobile apps and work with local and cloud AI.
 <img src="assets/icons/deepseek-harness.svg" alt="DeepSeek Harness" title="DeepSeek Harness" width="32" height="32" /></td>
 </tr>
 <tr>
-<td><strong>AI editors</strong></td>
+<td width="210"><strong>AI&nbsp;editors</strong></td>
 <td width="9999"><img src="assets/icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="32" height="32" />&nbsp;
 <img src="assets/icons/cursor.svg" alt="Cursor" title="Cursor" width="32" height="32" /></td>
 </tr>
 <tr>
-<td><strong>AI platforms</strong></td>
+<td width="210"><strong>AI&nbsp;platforms</strong></td>
 <td width="9999"><a href="https://venice.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/venice-color.svg" alt="Venice" title="Venice" width="32" height="32" /></a>&nbsp;
 <a href="https://chatgpt.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/openai.webp" alt="ChatGPT" title="ChatGPT" width="32" height="32" /></a>&nbsp;
 <a href="https://gemini.google.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="32" height="32" /></a>&nbsp;
 <a href="https://www.perplexity.ai/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/perplexity-color.svg" alt="Perplexity" title="Perplexity" width="32" height="32" /></a></td>
 </tr>
 <tr>
-<td><strong>Search &amp; chat</strong></td>
+<td width="210"><strong>Search&nbsp;&amp;&nbsp;chat</strong></td>
 <td width="9999"><a href="https://github.com/ItzCrazyKns/Vane"><img src="https://raw.githubusercontent.com/ItzCrazyKns/Vane/master/src/app/favicon.ico" alt="Vane" title="Vane" width="32" height="32" /></a>&nbsp;
 <a href="https://github.com/LibreChat-AI/LibreChat"><img src="https://raw.githubusercontent.com/LibreChat-AI/LibreChat/main/client/public/assets/logo.svg" alt="LibreChat" title="LibreChat" width="32" height="32" /></a></td>
 </tr>
 <tr>
-<td><strong>Images &amp; workflows</strong></td>
+<td width="210"><strong>Images&nbsp;&amp;&nbsp;workflows</strong></td>
 <td width="9999"><a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/comfyui-color.svg" alt="ComfyUI" title="ComfyUI" width="32" height="32" /></a></td>
 </tr>
 <tr>
-<td><strong>Music &amp; audio</strong></td>
+<td width="210"><strong>Music&nbsp;&amp;&nbsp;audio</strong></td>
 <td width="9999"><a href="https://github.com/ace-step/ACE-Step-DAW"><img src="https://raw.githubusercontent.com/ace-step/ACE-Step-DAW/main/public/logo-192.png" alt="ACE-Step DAW" title="ACE-Step DAW" width="32" height="32" /></a></td>
 </tr>
 <tr>
-<td><strong>Fine-tuning &amp; training</strong></td>
+<td width="210"><strong>Fine&#8209;tuning&nbsp;&amp;&nbsp;training</strong></td>
 <td width="9999"><a href="https://github.com/unslothai/unsloth"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/unsloth-color.svg" alt="Unsloth" title="Unsloth" width="32" height="32" /></a>&nbsp;
 <a href="https://github.com/hiyouga/LlamaFactory"><img src="https://raw.githubusercontent.com/hiyouga/LlamaFactory/main/assets/logo.png" alt="LLaMA-Factory" title="LLaMA-Factory" width="112" height="32" /></a>&nbsp;
 <a href="https://github.com/huggingface/transformers"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Transformers" title="Transformers" width="32" height="32" /></a></td>
@@ -52,7 +50,9 @@ I build web and mobile apps and work with local and cloud AI.
 </tbody>
 </table>
 
-**Additional tooling:** BitFrost
+**Model runtime & optimization:** `llama.cpp` (CUDA), GGUF, quantization, LoRA adapters.
+
+**Additional tooling:** BitFrost, [LiteLLM](https://github.com/BerriAI/litellm)
 
 ### AI projects, models & datasets
 
