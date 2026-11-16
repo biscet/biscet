@@ -10,17 +10,20 @@ from urllib.request import Request, urlopen
 
 START = "<!-- HF_ALL_TIME_DOWNLOADS:START -->"
 END = "<!-- HF_ALL_TIME_DOWNLOADS:END -->"
+OBORO_START = "<!-- OBORO_ALL_TIME_DOWNLOADS:START -->"
+OBORO_END = "<!-- OBORO_ALL_TIME_DOWNLOADS:END -->"
 
 MODEL = ("Whittle-35B-A3B-DFlash2", "https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2")
+OBORO_MODEL = ("Oboro-Blink-1.0", "https://huggingface.co/oboro-ai/Oboro-Blink-1.0")
 DATASETS = (
     ("DFlash-DeepSeek-TraceMix", "https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix"),
     ("DFlash-ChatGPT-TraceMix-Lite", "https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite"),
 )
 
 
-def fetch_all_time_downloads(kind: str, name: str) -> int:
+def fetch_all_time_downloads(kind: str, name: str, owner: str = "biscet") -> int:
     query = urlencode({"expand[]": "downloadsAllTime"})
-    url = f"https://huggingface.co/api/{kind}/biscet/{name}?{query}"
+    url = f"https://huggingface.co/api/{kind}/{owner}/{name}?{query}"
     request = Request(url, headers={
         "Accept": "application/json",
         "User-Agent": "biscet-github-readme-stats/1.0",
@@ -32,7 +35,7 @@ def fetch_all_time_downloads(kind: str, name: str) -> int:
                 payload = json.load(response)
             total = payload.get("downloadsAllTime")
             if type(total) is not int or total < 0:
-                raise ValueError(f"Missing/invalid downloadsAllTime for {kind}/biscet/{name}: {payload}")
+                raise ValueError(f"Missing/invalid downloadsAllTime for {kind}/{owner}/{name}: {payload}")
             return total
         except (HTTPError, URLError, TimeoutError):
             if attempt == 2:
@@ -47,22 +50,31 @@ def linked_count(name: str, url: str, total: int) -> str:
     return f"[{name}]({url}) ({total:,} {unit})"
 
 
+def replace_stats_block(readme: str, start: str, end: str, lines: list[str]) -> str:
+    """Replace one marked statistics block, preserving the rest of the README."""
+    if readme.count(start) != 1 or readme.count(end) != 1:
+        raise ValueError(f"Expected exactly one download statistics block: {start}")
+    if readme.index(start) >= readme.index(end):
+        raise ValueError(f"Download statistics markers are out of order: {start}")
+
+    before, remainder = readme.split(start, 1)
+    _, after = remainder.split(end, 1)
+    block = "\n".join([start, *lines, end])
+    return before + block + after
+
+
 def main() -> None:
     readme = Path("README.md")
     original = readme.read_text(encoding="utf-8")
-    if original.count(START) != 1 or original.count(END) != 1:
-        raise ValueError("Expected exactly one HF download statistics block in README.md")
-    if original.index(START) >= original.index(END):
-        raise ValueError("HF download statistics markers are out of order")
 
     model_count = fetch_all_time_downloads("models", MODEL[0])
     dataset_counts = [
         fetch_all_time_downloads("datasets", name)
         for name, _ in DATASETS
     ]
+    oboro_count = fetch_all_time_downloads("models", OBORO_MODEL[0], owner="oboro-ai")
 
-    block = "\n".join([
-        START,
+    updated = replace_stats_block(original, START, END, [
         f"- **Model:** {linked_count(*MODEL, model_count)}.",
         "- **Datasets:** "
         + " · ".join(
@@ -70,12 +82,10 @@ def main() -> None:
             for (name, url), count in zip(DATASETS, dataset_counts)
         )
         + ".",
-        END,
     ])
-
-    before, remainder = original.split(START, 1)
-    _, after = remainder.split(END, 1)
-    updated = before + block + after
+    updated = replace_stats_block(updated, OBORO_START, OBORO_END, [
+        f"- **Model:** {linked_count(*OBORO_MODEL, oboro_count)}.",
+    ])
 
     if updated != original:
         readme.write_text(updated, encoding="utf-8")
@@ -86,7 +96,9 @@ def main() -> None:
     print(f"Model: {model_count:,} all-time downloads")
     for (name, _), count in zip(DATASETS, dataset_counts):
         print(f"{name}: {count:,} all-time downloads")
+    print(f"{OBORO_MODEL[0]}: {oboro_count:,} all-time downloads")
 
 
 if __name__ == "__main__":
     main()
+

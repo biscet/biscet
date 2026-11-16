@@ -67,15 +67,21 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 **[DFlash Coach](https://github.com/biscet/DFlash-Coach)**: feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.\
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
-> **[Oboro AI](https://huggingface.co/oboro-ai)**: local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
+**[Oboro AI](https://huggingface.co/oboro-ai)**
+
+Local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
+
+<!-- OBORO_ALL_TIME_DOWNLOADS:START -->
+- **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (0 downloads).
+<!-- OBORO_ALL_TIME_DOWNLOADS:END -->
 
 <br>
 
 **[My Hugging Face profile](https://huggingface.co/biscet)**
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
-- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (117 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (238 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (119 downloads).
+- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (132 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (282 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (138 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
@@ -205,3 +211,4 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 [habr]: https://career.habr.com/biscet
 [hhru]: https://togliatti.hh.ru/resume/b27a8469ff09bddac80039ed1f5358466e6534
 [yandex]:https://music.yandex.ru/users/biscet/playlists/3
+
