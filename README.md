@@ -74,8 +74,8 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 **[My Hugging Face profile](https://huggingface.co/biscet)**
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
-- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite).
+- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (117 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (238 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (119 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
