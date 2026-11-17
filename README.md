@@ -68,6 +68,7 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
 <br>
+
 **[Oboro AI](https://huggingface.co/oboro-ai)**: local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
 
 <!-- OBORO_ALL_TIME_DOWNLOADS:START -->
