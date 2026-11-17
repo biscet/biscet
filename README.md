@@ -200,7 +200,7 @@ Local models, fine-tuning, and inference experiments. **Oboro Flash** is in deve
 
 ---
 
-[website]: https://biscet-portfolio.vercel.app/
+[website]: https://biscet-prtfl.vercel.app/
 [vk]: https://vk.com/id607761386
 [pinterest]: https://www.pinterest.ru/biscet275
 [instagram]: https://instagram.com/_blsrng
