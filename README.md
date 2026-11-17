@@ -72,7 +72,7 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 Local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
 
 <!-- OBORO_ALL_TIME_DOWNLOADS:START -->
-- **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (0 downloads).
+- **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (76 downloads).
 <!-- OBORO_ALL_TIME_DOWNLOADS:END -->
 
 <br>
@@ -80,8 +80,8 @@ Local models, fine-tuning, and inference experiments. **Oboro Flash** is in deve
 **[My Hugging Face profile](https://huggingface.co/biscet)**
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
-- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (132 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (282 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (138 downloads).
+- **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (155 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (313 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (142 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
