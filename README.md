@@ -69,7 +69,9 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <br>
 
-**[Oboro AI](https://huggingface.co/oboro-ai)**: local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
+**Oboro AI** focuses on local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
+
+[Hugging Face](https://huggingface.co/oboro-ai) · [GitHub organization](https://github.com/OboroAI)
 
 <!-- OBORO_ALL_TIME_DOWNLOADS:START -->
 - **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (76 downloads).
@@ -131,8 +133,8 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" title="Axios" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC" title="tRPC" width="32" height="32" />&nbsp;
 <img src="assets/icons/farfetched.svg" alt="Farfetched" title="Farfetched" width="32" height="32" />&nbsp;
-<a href="https://github.com/jquense/yup"><img src="https://img.shields.io/badge/Yup-334155?style=flat" alt="Yup" title="Yup" /></a>&nbsp;
-<a href="https://github.com/101arrowz/fflate"><img src="https://img.shields.io/badge/fflate-334155?style=flat" alt="fflate" title="fflate" /></a></td>
+<a href="https://github.com/jquense/yup"><img src="assets/icons/yup.svg" alt="Yup" title="Yup" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/101arrowz/fflate"><img src="assets/icons/fflate.svg" alt="fflate" title="fflate" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>UI &amp; styling</strong></td>
@@ -141,18 +143,18 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 <img src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" /></td>
 <td><strong>Maps &amp; geospatial</strong></td>
 <td width="9999"><img src="https://maplibre.org/img/maplibre-logos/maplibre-logo-square-dark-blue-bg.png" alt="MapLibre" title="MapLibre GL JS" width="32" height="32" />&nbsp;
-<a href="https://turfjs.org/"><img src="https://img.shields.io/badge/Turf.js-334155?style=flat" alt="Turf.js" title="Turf.js" /></a>&nbsp;
-<a href="https://terradraw.io/"><img src="https://img.shields.io/badge/Terra%20Draw-334155?style=flat" alt="Terra Draw" title="Terra Draw" /></a>&nbsp;
-<a href="https://docs.protomaps.com/pmtiles/"><img src="https://img.shields.io/badge/PMTiles-334155?style=flat" alt="PMTiles" title="PMTiles" /></a></td>
+<a href="https://turfjs.org/"><img src="assets/icons/turf.svg" alt="Turf.js" title="Turf.js" width="32" height="32" /></a>&nbsp;
+<a href="https://terradraw.io/"><img src="assets/icons/terra-draw.png" alt="Terra Draw" title="Terra Draw" width="32" height="32" /></a>&nbsp;
+<a href="https://docs.protomaps.com/pmtiles/"><img src="assets/icons/pmtiles.png" alt="PMTiles" title="PMTiles" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>3D &amp; WebGL</strong></td>
 <td width="9999"><a href="https://threejs.org/"><img src="https://cdn.simpleicons.org/threedotjs/64748B" alt="Three.js" title="Three.js" width="32" height="32" /></a>&nbsp;
-<a href="https://r3f.docs.pmnd.rs/"><img src="https://img.shields.io/badge/React%20Three%20Fiber-334155?style=flat" alt="React Three Fiber" title="React Three Fiber" /></a>&nbsp;
-<a href="https://drei.docs.pmnd.rs/"><img src="https://img.shields.io/badge/Drei-334155?style=flat" alt="Drei" title="Drei" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"><img src="https://img.shields.io/badge/WebGL-334155?style=flat" alt="WebGL" title="WebGL" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context"><img src="https://img.shields.io/badge/GLSL-334155?style=flat" alt="GLSL" title="GLSL" /></a>&nbsp;
-<a href="https://github.com/protectwise/troika/tree/main/packages/troika-three-text"><img src="https://img.shields.io/badge/troika--three--text-334155?style=flat" alt="troika-three-text" title="troika-three-text" /></a></td>
+<a href="https://r3f.docs.pmnd.rs/"><img src="assets/icons/react-three-fiber.png" alt="React Three Fiber" title="React Three Fiber" width="32" height="32" /></a>&nbsp;
+<a href="https://drei.docs.pmnd.rs/"><img src="assets/icons/drei.png" alt="Drei" title="Drei" width="32" height="32" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"><img src="assets/icons/webgl.svg" alt="WebGL" title="WebGL" width="32" height="32" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context"><img src="assets/icons/glsl.svg" alt="GLSL" title="GLSL" width="32" height="32" /></a>&nbsp;
+<a href="https://github.com/protectwise/troika/tree/main/packages/troika-three-text"><img src="assets/icons/troika-three-text.svg" alt="troika-three-text" title="troika-three-text" width="32" height="32" /></a></td>
 <td><strong>Data visualization</strong></td>
 <td width="9999"><a href="https://www.chartjs.org/"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" title="Chart.js" width="32" height="32" /></a>&nbsp;
 <img src="https://cdn.simpleicons.org/konva/24B7D4" alt="Konva" title="Konva" width="32" height="32" /></td>
@@ -161,14 +163,14 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 <td><strong>Tooling</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="32" height="32" />&nbsp;
-<a href="https://github.com/unjs/jiti"><img src="https://img.shields.io/badge/jiti-334155?style=flat" alt="jiti" title="jiti" /></a></td>
+<a href="https://github.com/unjs/jiti"><img src="assets/icons/jiti.svg" alt="jiti" title="jiti" width="32" height="32" /></a></td>
 <td><strong>UI &amp; motion</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" title="Styled Components" width="32" height="32" />&nbsp;
 <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" title="GSAP" width="32" height="32" />&nbsp;
 <img src="assets/icons/radix-ui.svg" alt="Radix UI" title="Radix UI" width="32" height="32" />&nbsp;
 <img src="assets/icons/framer.svg" alt="Framer Motion" title="Framer Motion" width="32" height="32" />&nbsp;
-<a href="https://motion.dev/docs/vue"><img src="https://img.shields.io/badge/Motion%20for%20Vue-334155?style=flat" alt="Motion for Vue" title="Motion for Vue" /></a>&nbsp;
-<a href="https://lenis.dev/"><img src="https://img.shields.io/badge/Lenis-334155?style=flat" alt="Lenis" title="Lenis" /></a></td>
+<a href="https://motion.dev/docs/vue"><img src="assets/icons/motion-vue.png" alt="Motion for Vue" title="Motion for Vue" width="32" height="32" /></a>&nbsp;
+<a href="https://lenis.dev/"><img src="assets/icons/lenis.png" alt="Lenis" title="Lenis" width="32" height="32" /></a></td>
 </tr>
 <tr>
 <td><strong>Server</strong></td>
