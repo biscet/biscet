@@ -2,7 +2,7 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile apps with React / React Native, Vue, Docker, Vue, Pinia, TypeScript and etc. I also work on interactive maps, data visualization, and 3D motion for the web. I design software architecture, write scripts, build pipelines, manage Git workflows, work with AI coding agents, and handle deployments. I also develop complex business logic, automate processes, and analyze data.
+I build web and mobile apps with React / React Native / Vue, Effector / Pinia, TypeScript and etc. I also work on interactive maps, data visualization, and 3D motion for the web. I design software architecture, write scripts, build pipelines, manage Git workflows, work with AI coding agents, and handle deployments. I also develop complex business logic, automate processes, and analyze data.
 
 I fine-tune models, prepare datasets, and optimize inference for local and cloud AI. I also develop open-source projects and publish models and datasets on Hugging Face.
 
