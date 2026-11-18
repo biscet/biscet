@@ -178,11 +178,13 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 
 ## Links
 
+<!-- PRIVATE_LANGUAGE_STATS:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=biscet&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=biscet&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328" />
-  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=biscet&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328" alt="Most used languages on GitHub" width="360" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-dark.svg?v=dc79433cc201" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=dc79433cc201" />
+  <img align="right" src="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=dc79433cc201" alt="Most used languages, including private repositories" width="360" />
 </picture>
+<!-- PRIVATE_LANGUAGE_STATS:END -->
 
 <p><strong>Connect with me</strong></p>
 <p><a href="mailto:befealmellow@gmail.com"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gmail.svg" alt="Gmail" title="Gmail" width="32" height="32" /></a>&nbsp;

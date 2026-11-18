@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="245" viewBox="0 0 450 245" role="img" aria-labelledby="title desc">
+<title id="title">Most Used Languages</title>
+<desc id="desc">GitHub repository language distribution, including permitted private repositories.</desc>
+<rect x="0.5" y="0.5" width="449" height="244" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="225" y="50" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="22" fill="#0969da">Most Used Languages</text>
+<defs><clipPath id="bar-clip"><rect x="40" y="76" width="370" height="10" rx="5"/></clipPath></defs>
+<g clip-path="url(#bar-clip)">
+<rect x="40" y="76" width="370" height="10" fill="#d0d7de"/>
+<rect x="40.000" y="76" width="287.216" height="10" fill="#3178c6"/>
+<rect x="327.216" y="76" width="31.205" height="10" fill="#b07219"/>
+<rect x="358.420" y="76" width="15.704" height="10" fill="#dea584"/>
+<rect x="374.125" y="76" width="11.780" height="10" fill="#7ee787"/>
+<rect x="385.905" y="76" width="9.448" height="10" fill="#f1e05a"/>
+<rect x="395.353" y="76" width="6.418" height="10" fill="#39c5bb"/>
+<rect x="401.771" y="76" width="8.229" height="10" fill="#8b949e"/>
+</g>
+<circle cx="45" cy="121" r="6" fill="#3178c6"/>
+<text x="58" y="125" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>TypeScript</title>TypeScript 77.63%</text>
+<circle cx="45" cy="154" r="6" fill="#b07219"/>
+<text x="58" y="158" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>Java</title>Java 8.43%</text>
+<circle cx="45" cy="187" r="6" fill="#dea584"/>
+<text x="58" y="191" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>Rust</title>Rust 4.24%</text>
+<circle cx="242" cy="121" r="6" fill="#7ee787"/>
+<text x="255" y="125" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>MDX</title>MDX 3.18%</text>
+<circle cx="242" cy="154" r="6" fill="#f1e05a"/>
+<text x="255" y="158" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>JavaScript</title>JavaScript 2.55%</text>
+<circle cx="242" cy="187" r="6" fill="#39c5bb"/>
+<text x="255" y="191" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#1f2328"><title>C</title>C 1.73%</text>
+</svg>
