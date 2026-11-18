@@ -64,7 +64,7 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 
 ### AI projects, models & datasets
 
-**[DFlash Coach](https://github.com/biscet/DFlash-Coach)**: feature capture, resumable DFlash draft fine-tuning, mentor reviews, and benchmarking.\
+**[DraftLab](https://github.com/biscet/DraftLab)**: feature capture, resumable draft fine-tuning, mentor reviews, and benchmarking.\
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
 <br>
