@@ -1,14 +1,14 @@
-[<img align="right" alt="Portfolio" title="Portfolio" src="https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-portfolio.vercel.app%2F" />][website]
+[<img align="right" alt="Portfolio" title="Portfolio" src="https://img.shields.io/website?logo=io&label=MYPORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fbiscet-prtfl.vercel.app%2F" />][website]
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile apps with React, TypeScript, React Native, Vue, Pinia and Expo.
+I build web and mobile apps with React, React Native, Expo, Vue, Pinia, and TypeScript. I also work on interactive maps, data visualization, and 3D motion for the web. In [my portfolio][website], scrolling moves the camera through a WebGL scene with procedural effects and 3D typography.
 
-I also work with local and cloud AI: model fine-tuning, dataset preparation, and inference optimization. I develop Open-source projects and publish models and datasets on Hugging Face.
+I fine-tune models, prepare datasets, and optimize inference for local and cloud AI. I also develop open-source projects and publish models and datasets on Hugging Face.
 
 <br>
 
-## Local & cloud AI tooling
+## Local & Cloud AI tooling
 
 <table width="100%">
 <tbody>
@@ -90,8 +90,9 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 
 **Current focus**
 
-- **Web & mobile:** React, React Native, Expo, TypeScript, Effector, Vite, and tRPC.
-- **Maps & visualization:** MapLibre GL JS.
+- **Web & mobile.** I build TypeScript apps with React and Vue on the web and React Native with Expo on mobile. I use Effector and Pinia for state management, Vite for web builds, and tRPC for typed APIs.
+- **Maps & visualization.** I build interactive maps, geometry editors, and analytical dashboards with MapLibre GL JS, Turf.js (`@turf/turf`), Terra Draw, PMTiles vector tiles, and Chart.js.
+- **3D & motion.** I create WebGL scenes with Three.js, React Three Fiber, Drei, and custom GLSL shaders. I use GSAP and Lenis for scroll-driven camera motion and Motion for Vue (`motion-v`) for interface animations.
 
 <br>
 
@@ -129,26 +130,45 @@ I also work with local and cloud AI: model fine-tuning, dataset preparation, and
 <td width="9999"><img src="https://cdn.simpleicons.org/lodash/3492FF" alt="Lodash" title="Lodash" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Axios" title="Axios" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC" title="tRPC" width="32" height="32" />&nbsp;
-<img src="assets/icons/farfetched.svg" alt="Farfetched" title="Farfetched" width="32" height="32" /></td>
+<img src="assets/icons/farfetched.svg" alt="Farfetched" title="Farfetched" width="32" height="32" />&nbsp;
+<a href="https://github.com/jquense/yup"><img src="https://img.shields.io/badge/Yup-334155?style=flat" alt="Yup" title="Yup" /></a>&nbsp;
+<a href="https://github.com/101arrowz/fflate"><img src="https://img.shields.io/badge/fflate-334155?style=flat" alt="fflate" title="fflate" /></a></td>
 </tr>
 <tr>
 <td><strong>UI &amp; styling</strong></td>
 <td width="9999"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" title="Sass" width="32" height="32" />&nbsp;
 <img src="https://v4.material-ui.com/static/logo.png" alt="Material UI" title="Material UI" width="32" height="32" />&nbsp;
 <img src="https://blog.kakaocdn.net/dn/l7CgW/btrsH9Iilqo/e2mFuvfWgz5QqepPJVHCaK/img.jpg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" /></td>
-<td><strong>Maps &amp; visualization</strong></td>
+<td><strong>Maps &amp; geospatial</strong></td>
 <td width="9999"><img src="https://maplibre.org/img/maplibre-logos/maplibre-logo-square-dark-blue-bg.png" alt="MapLibre" title="MapLibre GL JS" width="32" height="32" />&nbsp;
+<a href="https://turfjs.org/"><img src="https://img.shields.io/badge/Turf.js-334155?style=flat" alt="Turf.js" title="Turf.js" /></a>&nbsp;
+<a href="https://terradraw.io/"><img src="https://img.shields.io/badge/Terra%20Draw-334155?style=flat" alt="Terra Draw" title="Terra Draw" /></a>&nbsp;
+<a href="https://docs.protomaps.com/pmtiles/"><img src="https://img.shields.io/badge/PMTiles-334155?style=flat" alt="PMTiles" title="PMTiles" /></a></td>
+</tr>
+<tr>
+<td><strong>3D &amp; WebGL</strong></td>
+<td width="9999"><a href="https://threejs.org/"><img src="https://cdn.simpleicons.org/threedotjs/64748B" alt="Three.js" title="Three.js" width="32" height="32" /></a>&nbsp;
+<a href="https://r3f.docs.pmnd.rs/"><img src="https://img.shields.io/badge/React%20Three%20Fiber-334155?style=flat" alt="React Three Fiber" title="React Three Fiber" /></a>&nbsp;
+<a href="https://drei.docs.pmnd.rs/"><img src="https://img.shields.io/badge/Drei-334155?style=flat" alt="Drei" title="Drei" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"><img src="https://img.shields.io/badge/WebGL-334155?style=flat" alt="WebGL" title="WebGL" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context"><img src="https://img.shields.io/badge/GLSL-334155?style=flat" alt="GLSL" title="GLSL" /></a>&nbsp;
+<a href="https://github.com/protectwise/troika/tree/main/packages/troika-three-text"><img src="https://img.shields.io/badge/troika--three--text-334155?style=flat" alt="troika-three-text" title="troika-three-text" /></a></td>
+<td><strong>Data visualization</strong></td>
+<td width="9999"><a href="https://www.chartjs.org/"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" title="Chart.js" width="32" height="32" /></a>&nbsp;
 <img src="https://cdn.simpleicons.org/konva/24B7D4" alt="Konva" title="Konva" width="32" height="32" /></td>
 </tr>
 <tr>
 <td><strong>Tooling</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="32" height="32" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="32" height="32" /></td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="32" height="32" />&nbsp;
+<a href="https://github.com/unjs/jiti"><img src="https://img.shields.io/badge/jiti-334155?style=flat" alt="jiti" title="jiti" /></a></td>
 <td><strong>UI &amp; motion</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled Components" title="Styled Components" width="32" height="32" />&nbsp;
 <img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" title="GSAP" width="32" height="32" />&nbsp;
 <img src="assets/icons/radix-ui.svg" alt="Radix UI" title="Radix UI" width="32" height="32" />&nbsp;
-<img src="assets/icons/framer.svg" alt="Framer Motion" title="Framer Motion" width="32" height="32" /></td>
+<img src="assets/icons/framer.svg" alt="Framer Motion" title="Framer Motion" width="32" height="32" />&nbsp;
+<a href="https://motion.dev/docs/vue"><img src="https://img.shields.io/badge/Motion%20for%20Vue-334155?style=flat" alt="Motion for Vue" title="Motion for Vue" /></a>&nbsp;
+<a href="https://lenis.dev/"><img src="https://img.shields.io/badge/Lenis-334155?style=flat" alt="Lenis" title="Lenis" /></a></td>
 </tr>
 <tr>
 <td><strong>Server</strong></td>
