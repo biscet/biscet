@@ -2,7 +2,7 @@
 
 ## Hey, I'm Egor Prokhorov
 
-I build web and mobile apps with React, React Native, Expo, Vue, Pinia, and TypeScript. I also work on interactive maps, data visualization, and 3D motion for the web. I design software architecture, write scripts, build pipelines, manage Git workflows, work with AI coding agents, and handle deployments. I also develop complex business logic, automate processes, and analyze data.
+I build web and mobile apps with React / React Native, Vue, Docker, Vue, Pinia, TypeScript and etc. I also work on interactive maps, data visualization, and 3D motion for the web. I design software architecture, write scripts, build pipelines, manage Git workflows, work with AI coding agents, and handle deployments. I also develop complex business logic, automate processes, and analyze data.
 
 I fine-tune models, prepare datasets, and optimize inference for local and cloud AI. I also develop open-source projects and publish models and datasets on Hugging Face.
 
@@ -91,8 +91,8 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 **Current focus**
 
 - **Web & mobile.** I build TypeScript apps with React and Vue on the web and React Native with Expo on mobile. I use Effector and Pinia for state management, Vite for web builds, and tRPC for typed APIs.
-- **Maps & visualization.** I build interactive maps, geometry editors, and analytical dashboards with MapLibre GL JS, Turf.js (`@turf/turf`), Terra Draw, PMTiles vector tiles, and Chart.js.
-- **3D & motion.** I create WebGL scenes with Three.js, React Three Fiber, Drei, and custom GLSL shaders. I use GSAP and Lenis for scroll-driven camera motion and Motion for Vue (`motion-v`) for interface animations.
+- **Maps & visualization.** I build interactive maps, geometry editors, and analytical dashboards with MapLibre GL JS, Turf.js, Terra Draw, PMTiles vector tiles, and Chart.js.
+- **3D & motion.** I create WebGL scenes with Three.js, React Three Fiber, Drei, and custom GLSL shaders. I use GSAP and Lenis for scroll-driven camera motion and Motion for Vue for interface animations.
 
 <br>
 
