@@ -64,7 +64,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 ### AI projects, models & datasets
 
-**[DraftLab](https://github.com/biscet/DraftLab)**: feature capture, resumable draft fine-tuning, mentor reviews, and benchmarking.\
+**[DraftLab](https://github.com/biscet/DraftLab)** is a toolkit for LLM speculative decoding with DFlash2 (D-PACE) and EAGLE-3. It includes GGUF feature capture, resumable draft fine-tuning, mentor reviews, and draft benchmarking.\
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
 <br>
