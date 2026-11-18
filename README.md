@@ -79,7 +79,9 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <br>
 
-**[My Hugging Face profile](https://huggingface.co/biscet)**
+**Personal profile**
+
+[My Hugging Face profile](https://huggingface.co/biscet)
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
 - **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (155 downloads).
