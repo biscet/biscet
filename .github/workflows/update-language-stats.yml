@@ -1,0 +1,42 @@
+name: Update language statistics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-language-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate language cards from public and private repositories
+        env:
+          LANGUAGE_STATS_TOKENS: ${{ secrets.LANGUAGE_STATS_TOKENS }}
+        run: node .github/scripts/update-language-stats.mjs
+
+      - name: Commit generated cards and updated README
+        run: |
+          git add README.md assets/languages-dark.svg assets/languages-light.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh GitHub language statistics"
+          git push
