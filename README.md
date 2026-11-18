@@ -56,7 +56,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <br>
 
-**Model runtime & optimization:** llama.cpp (CUDA/Volta), GGUF K-quants, LoRA adapters, Flash Attention, KV-cache tuning, multi-GPU tensor placement, speculative decoding (DFlash2, n-gram), and inference benchmarking (prefill, decode, VRAM).
+**Model runtime & optimization:** llama.cpp (CUDA/Volta), GGUF K-quants, LoRA adapters, Flash Attention, KV-cache tuning, multi-GPU tensor placement, speculative decoding (DFlash2, n-gramб EAGLE-3, MTP), and inference benchmarking (prefill, decode, VRAM).
 
 **Additional tooling:** BitFrost, LiteLLM
 
