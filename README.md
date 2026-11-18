@@ -175,7 +175,10 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 <tr>
 <td><strong>Server</strong></td>
 <td width="9999"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" title="Node.js" width="32" height="32" />&nbsp;
-<img src="https://img.icons8.com/nolan/512/express-js.png" alt="Express" title="Express" width="32" height="32" /></td>
+<img src="https://img.icons8.com/nolan/512/express-js.png" alt="Express" title="Express" width="32" height="32" />&nbsp;
+<a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" width="32" height="32" /></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32" /></a>&nbsp;
+<a href="https://nginx.org/"><img src="https://cdn.simpleicons.org/nginx/009639" alt="NGINX" title="NGINX" width="32" height="32" /></a></td>
 <td><strong>Build &amp; quality</strong></td>
 <td width="9999"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="32" height="32" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="32" height="32" />&nbsp;
