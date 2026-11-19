@@ -209,9 +209,9 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <!-- PRIVATE_LANGUAGE_STATS:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-dark.svg?v=dc79433cc201" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=dc79433cc201" />
-  <img align="right" src="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=dc79433cc201" alt="Most used languages, including private repositories" width="360" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-dark.svg?v=7df354344349" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=7df354344349" />
+  <img align="right" src="https://raw.githubusercontent.com/biscet/biscet/master/assets/languages-light.svg?v=7df354344349" alt="Most used languages, including private repositories" width="360" />
 </picture>
 <!-- PRIVATE_LANGUAGE_STATS:END -->
 
