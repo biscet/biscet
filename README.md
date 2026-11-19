@@ -82,12 +82,13 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 **Oboro AI** — Local models, fine-tuning, and inference experiments. **Oboro Flash** is in development.
 
+**[OboroLabs](https://github.com/OboroAI/OboroLabs)** runs reproducible benchmarks for model latency and output quality.
+
 [Hugging Face](https://huggingface.co/oboro-ai) · [GitHub organization](https://github.com/OboroAI)
 
 <!-- OBORO_ALL_TIME_DOWNLOADS:START -->
 - **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (95 downloads).
 <!-- OBORO_ALL_TIME_DOWNLOADS:END -->
-- [OboroLabs](https://github.com/OboroAI/OboroLabs) runs reproducible benchmarks for model latency and output quality.
 
 ---
 
