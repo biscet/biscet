@@ -75,7 +75,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
 - **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (191 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (471 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (165 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (501 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (174 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
@@ -87,7 +87,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 [Hugging Face](https://huggingface.co/oboro-ai) · [GitHub organization](https://github.com/OboroAI)
 
 <!-- OBORO_ALL_TIME_DOWNLOADS:START -->
-- **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (186 downloads).
+- **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (190 downloads).
 <!-- OBORO_ALL_TIME_DOWNLOADS:END -->
 
 ---
