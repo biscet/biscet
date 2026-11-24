@@ -18,6 +18,7 @@ OBORO_MODEL = ("Oboro-Blink-1.0", "https://huggingface.co/oboro-ai/Oboro-Blink-1
 DATASETS = (
     ("DFlash-DeepSeek-TraceMix", "https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix"),
     ("DFlash-ChatGPT-TraceMix-Lite", "https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite"),
+    ("SonicRank-ChatGPT-10K", "https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K"),
 )
 
 

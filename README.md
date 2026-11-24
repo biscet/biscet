@@ -64,7 +64,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 ### AI projects, models & datasets
 
-**[DraftLab](https://github.com/biscet/DraftLab)** is a toolkit for LLM speculative decoding with DFlash2 (D-PACE) and EAGLE-3. It includes GGUF feature capture, resumable draft fine-tuning, mentor reviews, and draft benchmarking.\
+**[Model Improvement Lab](https://github.com/biscet/ModelImprovementLab)** is a local research toolkit for pretrained inference, fine-tuning, and Hugging Face packaging of vision, speech, music, and draft models. It also supports DFlash2 (D-PACE) and EAGLE-3 speculative decoding, GGUF feature capture, and draft benchmarking.\
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
 <br>
@@ -75,7 +75,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
 - **Model:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (200 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (569 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (175 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (569 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (175 downloads) · [SonicRank-ChatGPT-10K](https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K) (41 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
