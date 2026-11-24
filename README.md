@@ -64,7 +64,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 ### AI projects, models & datasets
 
-**[Model Improvement Lab](https://github.com/biscet/ModelImprovementLab)** is a local research toolkit for pretrained inference, fine-tuning, and Hugging Face packaging of vision, speech, music, and draft models. It also supports DFlash2 (D-PACE) and EAGLE-3 speculative decoding, GGUF feature capture, and draft benchmarking.\
+**[Model Improvement Lab](https://github.com/biscet/Model-Improvement-Lab)** is a local research toolkit for pretrained inference, fine-tuning, and Hugging Face packaging of vision, speech, music, and draft models. It also supports DFlash2 (D-PACE) and EAGLE-3 speculative decoding, GGUF feature capture, and draft benchmarking.\
 **[ML Docs](https://github.com/biscet/ML-Docs)**: bilingual notes on LLM training, speculative decoding, and experiments.
 
 <br>
