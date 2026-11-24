@@ -12,8 +12,13 @@ START = "<!-- HF_ALL_TIME_DOWNLOADS:START -->"
 END = "<!-- HF_ALL_TIME_DOWNLOADS:END -->"
 OBORO_START = "<!-- OBORO_ALL_TIME_DOWNLOADS:START -->"
 OBORO_END = "<!-- OBORO_ALL_TIME_DOWNLOADS:END -->"
+TOTAL_START = "<!-- HF_TOTAL_MODEL_DOWNLOADS:START -->"
+TOTAL_END = "<!-- HF_TOTAL_MODEL_DOWNLOADS:END -->"
 
-MODEL = ("Whittle-35B-A3B-DFlash2", "https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2")
+MODELS = (
+    ("Whittle-35B-A3B-DFlash2", "https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2"),
+    ("Whittle-35B-A3B-Vision", "https://huggingface.co/biscet/Whittle-35B-A3B-Vision"),
+)
 OBORO_MODEL = ("Oboro-Blink-1.0", "https://huggingface.co/oboro-ai/Oboro-Blink-1.0")
 DATASETS = (
     ("DFlash-DeepSeek-TraceMix", "https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix"),
@@ -68,15 +73,24 @@ def main() -> None:
     readme = Path("README.md")
     original = readme.read_text(encoding="utf-8")
 
-    model_count = fetch_all_time_downloads("models", MODEL[0])
+    model_counts = [
+        fetch_all_time_downloads("models", name)
+        for name, _ in MODELS
+    ]
     dataset_counts = [
         fetch_all_time_downloads("datasets", name)
         for name, _ in DATASETS
     ]
     oboro_count = fetch_all_time_downloads("models", OBORO_MODEL[0], owner="oboro-ai")
+    total_model_downloads = sum(model_counts) + oboro_count
 
     updated = replace_stats_block(original, START, END, [
-        f"- **Model:** {linked_count(*MODEL, model_count)}.",
+        "- **Models:** "
+        + " · ".join(
+            linked_count(name, url, count)
+            for (name, url), count in zip(MODELS, model_counts)
+        )
+        + ".",
         "- **Datasets:** "
         + " · ".join(
             linked_count(name, url, count)
@@ -87,6 +101,13 @@ def main() -> None:
     updated = replace_stats_block(updated, OBORO_START, OBORO_END, [
         f"- **Model:** {linked_count(*OBORO_MODEL, oboro_count)}.",
     ])
+    updated = replace_stats_block(updated, TOTAL_START, TOTAL_END, [
+        (
+            f"**Total model downloads for local inference: {total_model_downloads:,} all-time** "
+            "across [biscet](https://huggingface.co/biscet) "
+            "and [Oboro AI](https://huggingface.co/oboro-ai)."
+        ),
+    ])
 
     if updated != original:
         readme.write_text(updated, encoding="utf-8")
@@ -94,10 +115,12 @@ def main() -> None:
     else:
         print("README download statistics unchanged")
 
-    print(f"Model: {model_count:,} all-time downloads")
+    for (name, _), count in zip(MODELS, model_counts):
+        print(f"{name}: {count:,} all-time downloads")
     for (name, _), count in zip(DATASETS, dataset_counts):
         print(f"{name}: {count:,} all-time downloads")
     print(f"{OBORO_MODEL[0]}: {oboro_count:,} all-time downloads")
+    print(f"Total models: {total_model_downloads:,} all-time downloads")
 
 
 if __name__ == "__main__":
