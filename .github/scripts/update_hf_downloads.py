@@ -12,8 +12,8 @@ START = "<!-- HF_ALL_TIME_DOWNLOADS:START -->"
 END = "<!-- HF_ALL_TIME_DOWNLOADS:END -->"
 OBORO_START = "<!-- OBORO_ALL_TIME_DOWNLOADS:START -->"
 OBORO_END = "<!-- OBORO_ALL_TIME_DOWNLOADS:END -->"
-TOTAL_START = "<!-- HF_TOTAL_MODEL_DOWNLOADS:START -->"
-TOTAL_END = "<!-- HF_TOTAL_MODEL_DOWNLOADS:END -->"
+TOTAL_START = "<!-- HF_TOTAL_DOWNLOADS:START -->"
+TOTAL_END = "<!-- HF_TOTAL_DOWNLOADS:END -->"
 
 MODELS = (
     ("Whittle-35B-A3B-DFlash2", "https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2"),
@@ -82,7 +82,7 @@ def main() -> None:
         for name, _ in DATASETS
     ]
     oboro_count = fetch_all_time_downloads("models", OBORO_MODEL[0], owner="oboro-ai")
-    total_model_downloads = sum(model_counts) + oboro_count
+    total_downloads = sum(model_counts) + sum(dataset_counts) + oboro_count
 
     updated = replace_stats_block(original, START, END, [
         "- **Models:** "
@@ -103,7 +103,7 @@ def main() -> None:
     ])
     updated = replace_stats_block(updated, TOTAL_START, TOTAL_END, [
         (
-            f"**Total model downloads for local inference: {total_model_downloads:,} all-time** "
+            f"**Total model & dataset downloads: {total_downloads:,} all-time** "
             "across [biscet](https://huggingface.co/biscet) "
             "and [Oboro AI](https://huggingface.co/oboro-ai)."
         ),
@@ -120,7 +120,7 @@ def main() -> None:
     for (name, _), count in zip(DATASETS, dataset_counts):
         print(f"{name}: {count:,} all-time downloads")
     print(f"{OBORO_MODEL[0]}: {oboro_count:,} all-time downloads")
-    print(f"Total models: {total_model_downloads:,} all-time downloads")
+    print(f"Total models & datasets: {total_downloads:,} all-time downloads")
 
 
 if __name__ == "__main__":

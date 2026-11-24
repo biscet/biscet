@@ -75,7 +75,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
 - **Models:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (200 downloads) · [Whittle-35B-A3B-Vision](https://huggingface.co/biscet/Whittle-35B-A3B-Vision) (0 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (615 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (175 downloads) · [SonicRank-ChatGPT-10K](https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K) (59 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (615 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (177 downloads) · [SonicRank-ChatGPT-10K](https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K) (59 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
@@ -90,9 +90,9 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 - **Model:** [Oboro-Blink-1.0](https://huggingface.co/oboro-ai/Oboro-Blink-1.0) (218 downloads).
 <!-- OBORO_ALL_TIME_DOWNLOADS:END -->
 
-<!-- HF_TOTAL_MODEL_DOWNLOADS:START -->
-**Total model downloads for local inference: 418 all-time** across [biscet](https://huggingface.co/biscet) and [Oboro AI](https://huggingface.co/oboro-ai).
-<!-- HF_TOTAL_MODEL_DOWNLOADS:END -->
+<!-- HF_TOTAL_DOWNLOADS:START -->
+**Total model & dataset downloads: 1,269 all-time** across [biscet](https://huggingface.co/biscet) and [Oboro AI](https://huggingface.co/oboro-ai).
+<!-- HF_TOTAL_DOWNLOADS:END -->
 
 ---
 
