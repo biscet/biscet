@@ -75,7 +75,7 @@ I fine-tune models, prepare datasets, and optimize inference for local and cloud
 
 <!-- HF_ALL_TIME_DOWNLOADS:START -->
 - **Models:** [Whittle-35B-A3B-DFlash2](https://huggingface.co/biscet/Whittle-35B-A3B-DFlash2) (200 downloads) · [Whittle-35B-A3B-Vision](https://huggingface.co/biscet/Whittle-35B-A3B-Vision) (0 downloads).
-- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (615 downloads) · [DFlash-ChatGPT-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite) (177 downloads) · [SonicRank-ChatGPT-10K](https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K) (59 downloads) · [CodeThinker-DeepSeek-Agentic](https://huggingface.co/datasets/biscet/CodeThinker-DeepSeek-Agentic) (0 downloads).
+- **Datasets:** [DFlash-DeepSeek-TraceMix](https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix) (615 downloads) · [DFlash-Codex-TraceMix-Lite](https://huggingface.co/datasets/biscet/DFlash-Codex-TraceMix-Lite) (177 downloads) · [SonicRank-Codex-10K](https://huggingface.co/datasets/biscet/SonicRank-Codex-10K) (59 downloads) · [CodeThinker-DeepSeek-Agentic](https://huggingface.co/datasets/biscet/CodeThinker-DeepSeek-Agentic) (0 downloads).
 <!-- HF_ALL_TIME_DOWNLOADS:END -->
 
 ---
