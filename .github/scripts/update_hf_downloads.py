@@ -24,6 +24,7 @@ DATASETS = (
     ("DFlash-DeepSeek-TraceMix", "https://huggingface.co/datasets/biscet/DFlash-DeepSeek-TraceMix"),
     ("DFlash-ChatGPT-TraceMix-Lite", "https://huggingface.co/datasets/biscet/DFlash-ChatGPT-TraceMix-Lite"),
     ("SonicRank-ChatGPT-10K", "https://huggingface.co/datasets/biscet/SonicRank-ChatGPT-10K"),
+    ("CodeThinker-DeepSeek-Agentic", "https://huggingface.co/datasets/biscet/CodeThinker-DeepSeek-Agentic"),
 )
 
 
